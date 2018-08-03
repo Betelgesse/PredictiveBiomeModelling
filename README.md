@@ -1,2 +1,2 @@
 # PredictiveBiomeModelling
-Source code will be available by August 4th, 2018
+Source code will be available upon publication.
